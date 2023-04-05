@@ -1,2 +1,2 @@
 # proxyChecker
-proxy checker for python free-proxy lib
+proxy checker for python with proxyscrape API.
